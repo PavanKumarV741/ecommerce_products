@@ -1,0 +1,36 @@
+.container{
+  margin-left: 25vw;
+  border: 1px solid ;
+  width:50%;
+  background-color:  rgba(162, 207, 95, 0.534);
+  border-radius: 5px;
+}
+.category{
+  padding: 5px;
+  width: 10vw;
+  margin: 20px;
+
+}
+.heading{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: blueviolet;
+}
+.nav{
+  display: flex;
+  justify-content: space-evenly;
+  margin: 10px;
+  background-color: rgb(179, 9, 179);
+  height: 6vh;
+}
+
+.descr{
+  border: 1px solid;
+  border-radius: 5px;
+  background-color:gray;
+  opacity: 0.8;
+}
+.search{
+  width: 20vw;
+}
